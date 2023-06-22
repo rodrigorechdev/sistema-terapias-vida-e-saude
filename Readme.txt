@@ -3,4 +3,4 @@ A pagina inicial é: codigo/clientes.php
 em um banco de dados mysql
 
 
-Edit1: Este foi um trabalho de faculdade da matéria de Programação 2, nela fui introduzido a programação web com HTML, CSS, JS e PHP.
+Edit1: Este código consiste em um trabalho de faculdade da matéria de Programação 2, nela fui introduzido a programação web com HTML, CSS, JS e PHP.
